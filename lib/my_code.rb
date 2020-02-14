@@ -3,7 +3,7 @@ def map(array)
 empty_array = []
 i = 0 
 while i < array.length
-
+empty_array << 
 end 
 
 def reduce(array, starting_value = 0)
