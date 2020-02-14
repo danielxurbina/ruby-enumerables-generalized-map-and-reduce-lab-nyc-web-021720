@@ -13,5 +13,5 @@ def reduce(array, starting_value = 0)
  end
  while i < array.length 
   sum = yield(sum, array[i])
-  
+  i += 1
 end 
