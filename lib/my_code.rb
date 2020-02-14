@@ -1,5 +1,6 @@
 # Your Code Here
 def map(array)
+empty_array = []
 
 end 
 
