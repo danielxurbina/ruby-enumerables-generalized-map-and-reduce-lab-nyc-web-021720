@@ -6,6 +6,7 @@ while i < array.length
   empty_array << yield(array[i])
   i += 1
 end
+ empty_array
 end 
 
 def reduce(array, starting_value = 0)
